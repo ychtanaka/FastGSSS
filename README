@@ -1,0 +1,20 @@
+FastGSSS (Fast Graph Sampling Set Selection) Toolbox: MATLAB toolbox for eigendecomposition-free sampling set selection
+(c) Akie Sakiyama, Yuichi Tanaka, Toshihisa Tanaka, and Antonio Ortega, 2019
+
+Author: Akie Sakiyama and Yuichi Tanaka (sakiyama@msp-lab.org; ytnk@cc.tuat.ac.jp)
+
+This is a MATLAB toolbox for eigendecomposition-free sampling set selection for graph signals. For details, please refer to the following papers:
+
+A. Sakiyama, Y. Tanaka, T. Tanaka, and A. Ortega, "Eigendecomposition-free sampling set selection for graph signals," IEEE Trans. on Signal Processing, accepted.
+
+Required toolboxes:
+	GSP Toolbox (https://epfl-lts2.github.io/gspbox-html/)
+
+Installation:
+	Just set paths to GSP Toolbox.
+
+Demo:
+	gsp_demo_fastgsss Demonstration of eigendecomposition-free sampling set selection for graph signals
+
+Update history:
+xxx, 20xx: v0.1 - (original release)
